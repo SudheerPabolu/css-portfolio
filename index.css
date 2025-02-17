@@ -19,10 +19,10 @@
     margin: 2rem 0 2rem 0;
 }
 .t1{
-    display: grid;
+    display:flex;
+    align-items:center;
+    justify-content:center;
     width: 100vw;
-    grid-template-columns:410px 200px;
-    grid-template-rows: 200px 200px;
 }
 .left{
     grid-area: 1 1 1 1;
