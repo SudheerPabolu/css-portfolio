@@ -25,11 +25,9 @@
     width: 100vw;
 }
 .left{
-    grid-area: 1 1 1 1;
     border-radius: 10px;
 }
 .right{
-    grid-area: 2 1 2 2;
     border-radius: 10px;
 }
 h3{
